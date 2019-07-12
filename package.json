@@ -1,0 +1,22 @@
+{
+  "name": "ddd-node-boilerplate",
+  "version": "1.0.0",
+  "description": "A opinionated boilerplate following domain driven development architecture, with node lts, express, docker and mongoose.",
+  "main": "index.js",
+  "repository": "git@github.com:Rolilink/ddd-node-boilerplate.git",
+  "author": "Rolando Perez <me@rolilink.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.14",
+    "mongoose": "^5.6.4"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "eslint-config-airbnb": "^17.1.1",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.2",
+    "nodemon": "^1.19.1"
+  }
+}
